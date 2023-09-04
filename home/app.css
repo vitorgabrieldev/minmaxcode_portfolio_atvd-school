@@ -113,3 +113,10 @@ body {
   color: #fefefe;
   transform: scale(.95);
 }
+
+.hidden {
+  display: none !important;
+}
+.mainContainer {
+  height: 100%;
+}
