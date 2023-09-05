@@ -17,16 +17,28 @@
 
 # Screenshots 💻
 
-**Pagina inicial 🏠**
+**Pagina inicial 🏠**  
+
 ![App Screenshots](https://raw.githubusercontent.com/vitorgabrieldev/imgs_readmes/main/1.png)
 
-**Pagina Atualizações 🚀**
+#
+
+**Pagina Atualizações 🚀** 
+
 ![App Screenshots](https://github.com/vitorgabrieldev/imgs_readmes/blob/main/2.png?raw=true)
 
-**Pagina Contatos 📱**
+#
+
+**Pagina Contatos 📱**  
+
 ![App Screenshots](https://github.com/vitorgabrieldev/imgs_readmes/blob/main/3.png?raw=true)
 
-**Aceitar cookies 🍪**
+#
+
+**Aceitar cookies 🍪**  
+
 ![App Screenshots](https://github.com/vitorgabrieldev/imgs_readmes/blob/main/4.png?raw=true)
 
-**Desenvolvido sobre supervisão de Leonardo Rocha**
+#
+
+**Desenvolvido sobre supervisão de [Leonardo Rocha](https://github.com/leonardossrocha)**
