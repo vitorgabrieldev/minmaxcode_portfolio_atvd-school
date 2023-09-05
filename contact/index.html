@@ -21,6 +21,9 @@
     <!-- -- | -- Import Cookies -- | -- -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.1/js.cookie.min.js"></script>
 
+    <!-- -- | -- Import Typed -- | -- -->
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
     <!-- -- | -- Import Jquery -- | -- -->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
 
@@ -70,7 +73,7 @@
           Contato
           <i class="bi bi-envelope"></i>
         </h1>
-        <p class="lead">Entre em contato conosco pelo:</p>
+        <p class="lead" id="element"></p>
         <p class="lead">
           <a href="#" class="hoverBtnContrate btn btn-lg btn-secondary fw-bold border-white bg-white">
             E-mail
@@ -91,5 +94,15 @@
         <p>Entenda nossos <a href="#" class="text-white">Termos de contrato</a> e <a href="#" class="text-white">Politicas de privacidades</a>.</p>
       </footer>
     </div>
+
+    <script>
+      var typed = new Typed('#element', {
+        strings: [
+          'Entre em contato para mais informações',
+          'Descubra o plano perfeito para você!'],
+        typeSpeed: 20,
+      });
+    </script>
+
   </body>
 </html>
